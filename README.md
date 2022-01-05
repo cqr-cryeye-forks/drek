@@ -22,7 +22,7 @@ Installing
 `drek` can be installed via `npm`:
 
 ```sh
-[sudo] npm install -g drek
+[sudo] npm install -g git+https://github.com/cqr-cryeye-forks/drek.git
 ```
 
 
